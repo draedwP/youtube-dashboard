@@ -4,8 +4,6 @@ function el(tag,text,cls){const n=document.createElement(tag);if(text!=null)n.te
 let lastSnapshot;
 let loading=false;
 const feedback=el('p','','meta');feedback.setAttribute('role','status');document.querySelector('#status').after(feedback);
-const collect=el('a','Collect fresh views →');collect.href='https://github.com/draedwP/youtube-dashboard/actions/workflows/update.yml';collect.target='_blank';collect.rel='noopener noreferrer';
-const help=el('p',null,'meta');help.append(collect,document.createTextNode(' · On GitHub, choose Run workflow. New counts appear after collection and publishing finish.'));feedback.after(help);
 async function load(manual=false){
  if(loading)return;loading=true;
  if(manual)feedback.textContent='Checking for a newer published snapshot…';

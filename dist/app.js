@@ -8,7 +8,6 @@ const collect=el('a','Collect fresh views →');collect.href='https://github.com
 const help=el('p',null,'meta');help.append(collect,document.createTextNode(' · On GitHub, choose Run workflow. New counts appear after collection and publishing finish.'));feedback.after(help);
 async function load(manual=false){
  if(loading)return;loading=true;
- const button=document.querySelector('#refresh');button.disabled=true;button.textContent='Checking…';
  if(manual)feedback.textContent='Checking for a newer published snapshot…';
  try{
   const response=await fetch('data.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(15000)});if(!response.ok)throw Error('Snapshot file unavailable');const data=await response.json();
@@ -25,6 +24,6 @@ async function load(manual=false){
    const v=el('div',null,'video');
    if(c?.latest){const video=c.latest;if(video.thumbnail){const img=el('img');img.src=video.thumbnail;img.alt='';v.append(img)}const details=el('div');details.append(el('p','LATEST VIDEO','label'));const a=el('a',video.title);a.href='https://www.youtube.com/watch?v='+encodeURIComponent(video.id);details.append(a,el('strong',fmt(video.views)+' views'),el('p',new Date(video.publishedAt).toLocaleString(),'meta'));v.append(details)}else{v.append(el('p',c?'No public video found.':'Latest video appears after the first collection.','meta'))}card.append(v);grid.append(card);
   }
- }catch{feedback.textContent='Could not check for updates. Your displayed counts have been kept. Try again.'}finally{loading=false;button.disabled=false;button.textContent='Refresh snapshot'}
+ }catch{feedback.textContent='Could not check for updates. Your displayed counts have been kept. Try again.'}finally{loading=false}
 }
-document.querySelector('#refresh').addEventListener('click',()=>load(true));load();setInterval(()=>load(),60000);
+load();setInterval(()=>load(),60000);

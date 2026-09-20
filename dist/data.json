@@ -1,1 +1,65 @@
-{"updatedAt":null,"channels":[]}
+{
+  "updatedAt": "2026-09-20T11:06:32.725Z",
+  "channels": [
+    {
+      "handle": "theovonaction",
+      "id": "UClJSMsLwG4Ld8QqN8qxO1Pw",
+      "title": "Theo Love Action",
+      "totalViews": 177076593,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "zwooTjLY_0c",
+        "title": "Ranking UNREALISTIC Cam2r Reactions 🔥",
+        "publishedAt": "2026-09-19T13:42:26Z",
+        "thumbnail": "https://i.ytimg.com/vi/zwooTjLY_0c/mqdefault.jpg",
+        "views": 20391
+      }
+    },
+    {
+      "handle": "ducktheoryone",
+      "id": "UCdOOfO398jU_mNZdsejRzdg",
+      "title": "Duck Theory",
+      "totalViews": 17284,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "aMzKtRrm5eg",
+        "title": "Ranking CRAZY Cam2r Reactions 😂",
+        "publishedAt": "2026-09-19T13:58:13Z",
+        "thumbnail": "https://i.ytimg.com/vi/aMzKtRrm5eg/mqdefault.jpg",
+        "views": 2518
+      }
+    },
+    {
+      "handle": "foxbarra",
+      "id": "UCOug_4jRhMNEpL9GzOJALCg",
+      "title": "FoxBarra",
+      "totalViews": 1348935,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "fo5iAiZvhEo",
+        "title": "Ranking GOOFY Cam2r Reactions 😱",
+        "publishedAt": "2026-09-19T13:17:24Z",
+        "thumbnail": "https://i.ytimg.com/vi/fo5iAiZvhEo/mqdefault.jpg",
+        "views": 23663
+      }
+    },
+    {
+      "handle": "ManBarra",
+      "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
+      "title": "ManBarra",
+      "totalViews": 120799,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "buyYWfFcLD4",
+        "title": "Ranking SILLY Cam2r Reactions 🤯",
+        "publishedAt": "2026-09-19T13:37:38Z",
+        "thumbnail": "https://i.ytimg.com/vi/buyYWfFcLD4/mqdefault.jpg",
+        "views": 21480
+      }
+    }
+  ]
+}

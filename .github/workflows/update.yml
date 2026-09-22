@@ -1,8 +1,5 @@
 name: Collect snapshots and publish
 on:
-  schedule:
-    # Frequent off-hour attempts compensate for delayed or dropped GitHub schedule events.
-    - cron: '3-58/5 * * * *'
   workflow_dispatch:
   push:
     branches: [main]

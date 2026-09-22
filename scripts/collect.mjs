@@ -1,7 +1,7 @@
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {pathToFileURL} from 'node:url';
 const HOUR=3600000;
-export function baseline(history,now){const target=now-48*HOUR;return history.filter(p=>p.at<=target&&p.at>=target-HOUR).sort((a,b)=>b.at-a.at)[0]||null}
+export function baseline(history,now){const target=now-48*HOUR;const tolerance=6*HOUR;return history.filter(p=>Math.abs(p.at-target)<=tolerance).sort((a,b)=>Math.abs(a.at-target)-Math.abs(b.at-target)||a.at-b.at)[0]||null}
 async function api(resource,params,key){const url=new URL('https://www.googleapis.com/youtube/v3/'+resource);for(const [k,v]of Object.entries({...params,key}))url.searchParams.set(k,v);const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error(`YouTube ${resource} request failed (HTTP ${r.status}); check key, quota and API enablement.`);return r.json()}
 async function main(){
  const key=process.env.YOUTUBE_API_KEY;if(!key)throw Error('Add the YOUTUBE_API_KEY repository secret first.');

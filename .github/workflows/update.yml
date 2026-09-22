@@ -51,11 +51,11 @@ jobs:
             git push
           fi
       - uses: actions/configure-pages@v5
-        if: steps.due.outputs.collect == 'true'
+        if: steps.due.outputs.collect == 'true' || github.event_name == 'push'
       - uses: actions/upload-pages-artifact@v3
-        if: steps.due.outputs.collect == 'true'
+        if: steps.due.outputs.collect == 'true' || github.event_name == 'push'
         with:
           path: dist
       - uses: actions/deploy-pages@v4
-        if: steps.due.outputs.collect == 'true'
+        if: steps.due.outputs.collect == 'true' || github.event_name == 'push'
         id: deployment

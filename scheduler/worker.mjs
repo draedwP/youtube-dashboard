@@ -14,10 +14,12 @@ export async function dispatch(env, fetcher = fetch) {
     body: JSON.stringify({ ref: 'main' }),
   });
   if (response.status !== 204) throw new Error(`GitHub workflow dispatch failed: HTTP ${response.status}`);
+  console.log('GitHub workflow dispatch accepted');
 }
 
 export default {
   async scheduled(_event, env, ctx) {
+    console.log('Scheduled trigger started');
     ctx.waitUntil(dispatch(env));
   },
 };

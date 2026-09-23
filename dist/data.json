@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-23T03:14:43.936Z",
+  "updatedAt": "2026-09-23T03:44:09.364Z",
   "channels": [
     {
       "handle": "theovonaction",
       "id": "UClJSMsLwG4Ld8QqN8qxO1Pw",
       "title": "Theo Love Action",
-      "totalViews": 177444020,
-      "increase48h": 291559,
+      "totalViews": 177485936,
+      "increase48h": 333475,
       "baselineAt": "2026-09-21T01:34:33.097Z",
       "latest": {
         "id": "77UuYEQWIqc",
         "title": "Ranking RANDOM Cam2r Reactions 🔥",
         "publishedAt": "2026-09-22T13:35:34Z",
         "thumbnail": "https://i.ytimg.com/vi/77UuYEQWIqc/mqdefault.jpg",
-        "views": 10526
+        "views": 11708
       }
     },
     {
@@ -28,7 +28,7 @@
         "title": "Ranking HILARIOUS Cam2r Reactions 😂",
         "publishedAt": "2026-09-22T13:07:03Z",
         "thumbnail": "https://i.ytimg.com/vi/In5-u5QozRQ/mqdefault.jpg",
-        "views": 2542
+        "views": 2707
       }
     },
     {
@@ -43,22 +43,22 @@
         "title": "Ranking RANKING Cam2r Reactions 😱",
         "publishedAt": "2026-09-22T13:18:29Z",
         "thumbnail": "https://i.ytimg.com/vi/XymLMzH9DIY/mqdefault.jpg",
-        "views": 2
+        "views": 3
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "totalViews": 187597,
-      "increase48h": 64657,
+      "totalViews": 188301,
+      "increase48h": 65361,
       "baselineAt": "2026-09-21T01:34:33.097Z",
       "latest": {
         "id": "cNsTVuznfPE",
         "title": "Ranking FUNNY Cam2r Reactions 🤯",
         "publishedAt": "2026-09-22T13:58:24Z",
         "thumbnail": "https://i.ytimg.com/vi/cNsTVuznfPE/mqdefault.jpg",
-        "views": 20199
+        "views": 20318
       }
     }
   ]

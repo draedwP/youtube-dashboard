@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:14:10.011Z",
+  "updatedAt": "2026-09-23T10:44:07.846Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -7,13 +7,13 @@
       "title": "Theo Love Action",
       "totalViews": 177485936,
       "increase48h": 333475,
-      "baselineAt": "2026-09-21T07:06:50.835Z",
+      "baselineAt": "2026-09-21T14:04:18.750Z",
       "latest": {
         "id": "77UuYEQWIqc",
         "title": "Ranking RANDOM Cam2r Reactions 🔥",
         "publishedAt": "2026-09-22T13:35:34Z",
         "thumbnail": "https://i.ytimg.com/vi/77UuYEQWIqc/mqdefault.jpg",
-        "views": 19645
+        "views": 19733
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "Duck Theory",
       "totalViews": 53996,
       "increase48h": 30580,
-      "baselineAt": "2026-09-21T07:06:50.835Z",
+      "baselineAt": "2026-09-21T14:04:18.750Z",
       "latest": {
         "id": "In5-u5QozRQ",
         "title": "Ranking HILARIOUS Cam2r Reactions 😂",
         "publishedAt": "2026-09-22T13:07:03Z",
         "thumbnail": "https://i.ytimg.com/vi/In5-u5QozRQ/mqdefault.jpg",
-        "views": 4032
+        "views": 4066
       }
     },
     {
@@ -36,8 +36,8 @@
       "id": "UCOug_4jRhMNEpL9GzOJALCg",
       "title": "FoxBarra",
       "totalViews": 1396673,
-      "increase48h": 46675,
-      "baselineAt": "2026-09-21T07:06:50.835Z",
+      "increase48h": 10512,
+      "baselineAt": "2026-09-21T14:04:18.750Z",
       "latest": {
         "id": "XymLMzH9DIY",
         "title": "Ranking RANKING Cam2r Reactions 😱",
@@ -52,13 +52,13 @@
       "title": "ManBarra",
       "totalViews": 188301,
       "increase48h": 65361,
-      "baselineAt": "2026-09-21T07:06:50.835Z",
+      "baselineAt": "2026-09-21T14:04:18.750Z",
       "latest": {
         "id": "cNsTVuznfPE",
         "title": "Ranking FUNNY Cam2r Reactions 🤯",
         "publishedAt": "2026-09-22T13:58:24Z",
         "thumbnail": "https://i.ytimg.com/vi/cNsTVuznfPE/mqdefault.jpg",
-        "views": 21152
+        "views": 21379
       }
     }
   ]

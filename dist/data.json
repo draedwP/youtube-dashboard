@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:13:41.054Z",
+  "updatedAt": "2026-09-24T04:43:40.487Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -13,15 +13,15 @@
         "title": "Ranking ASTONISHING Cam2r Reactions 🔥",
         "publishedAt": "2026-09-23T13:27:24Z",
         "thumbnail": "https://i.ytimg.com/vi/wHQDKldoka0/mqdefault.jpg",
-        "views": 7428
+        "views": 7496
       }
     },
     {
       "handle": "ducktheoryone",
       "id": "UCdOOfO398jU_mNZdsejRzdg",
       "title": "Duck Theory",
-      "totalViews": 59056,
-      "increase48h": 19998,
+      "totalViews": 60654,
+      "increase48h": 21596,
       "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "c4fUyvSDsQc",
@@ -35,15 +35,15 @@
       "handle": "foxbarra",
       "id": "UCOug_4jRhMNEpL9GzOJALCg",
       "title": "FoxBarra",
-      "totalViews": 1402933,
-      "increase48h": 16145,
+      "totalViews": 1404327,
+      "increase48h": 17539,
       "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "y733NPaGYaQ",
         "title": "Ranking HILARIOUS Cam2r Reactions 😱",
         "publishedAt": "2026-09-23T13:39:23Z",
         "thumbnail": "https://i.ytimg.com/vi/y733NPaGYaQ/mqdefault.jpg",
-        "views": 4774
+        "views": 4920
       }
     },
     {
@@ -58,7 +58,7 @@
         "title": "Ranking TRENDING Cam2r Reactions 🤯",
         "publishedAt": "2026-09-23T13:26:22Z",
         "thumbnail": "https://i.ytimg.com/vi/dM25JstAPaI/mqdefault.jpg",
-        "views": 7913
+        "views": 7947
       }
     }
   ]

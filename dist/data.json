@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:13:41.256Z",
+  "updatedAt": "2026-09-24T05:43:40.398Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -13,7 +13,7 @@
         "title": "Ranking ASTONISHING Cam2r Reactions 🔥",
         "publishedAt": "2026-09-23T13:27:24Z",
         "thumbnail": "https://i.ytimg.com/vi/wHQDKldoka0/mqdefault.jpg",
-        "views": 7599
+        "views": 7646
       }
     },
     {
@@ -35,30 +35,30 @@
       "handle": "foxbarra",
       "id": "UCOug_4jRhMNEpL9GzOJALCg",
       "title": "FoxBarra",
-      "totalViews": 1402933,
-      "increase48h": 16145,
+      "totalViews": 1404327,
+      "increase48h": 17539,
       "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "y733NPaGYaQ",
         "title": "Ranking HILARIOUS Cam2r Reactions 😱",
         "publishedAt": "2026-09-23T13:39:23Z",
         "thumbnail": "https://i.ytimg.com/vi/y733NPaGYaQ/mqdefault.jpg",
-        "views": 5105
+        "views": 5223
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "totalViews": 231343,
-      "increase48h": 49357,
+      "totalViews": 233528,
+      "increase48h": 51542,
       "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "dM25JstAPaI",
         "title": "Ranking TRENDING Cam2r Reactions 🤯",
         "publishedAt": "2026-09-23T13:26:22Z",
         "thumbnail": "https://i.ytimg.com/vi/dM25JstAPaI/mqdefault.jpg",
-        "views": 8016
+        "views": 8064
       }
     }
   ]

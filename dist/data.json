@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-24T03:43:39.382Z",
+  "updatedAt": "2026-09-24T04:13:41.054Z",
   "channels": [
     {
       "handle": "theovonaction",
       "id": "UClJSMsLwG4Ld8QqN8qxO1Pw",
       "title": "Theo Love Action",
-      "totalViews": 177679391,
-      "increase48h": 377558,
-      "baselineAt": "2026-09-22T01:34:47.545Z",
+      "totalViews": 177720997,
+      "increase48h": 387981,
+      "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "wHQDKldoka0",
         "title": "Ranking ASTONISHING Cam2r Reactions 🔥",
         "publishedAt": "2026-09-23T13:27:24Z",
         "thumbnail": "https://i.ytimg.com/vi/wHQDKldoka0/mqdefault.jpg",
-        "views": 7286
+        "views": 7428
       }
     },
     {
@@ -22,13 +22,13 @@
       "title": "Duck Theory",
       "totalViews": 59056,
       "increase48h": 19998,
-      "baselineAt": "2026-09-22T01:34:47.545Z",
+      "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "c4fUyvSDsQc",
         "title": "Ranking DRAMATIC Cam2r Reactions 😂",
         "publishedAt": "2026-09-23T13:25:38Z",
         "thumbnail": "https://i.ytimg.com/vi/c4fUyvSDsQc/mqdefault.jpg",
-        "views": 1346
+        "views": 1349
       }
     },
     {
@@ -36,29 +36,29 @@
       "id": "UCOug_4jRhMNEpL9GzOJALCg",
       "title": "FoxBarra",
       "totalViews": 1402933,
-      "increase48h": 16772,
-      "baselineAt": "2026-09-22T01:34:47.545Z",
+      "increase48h": 16145,
+      "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "y733NPaGYaQ",
         "title": "Ranking HILARIOUS Cam2r Reactions 😱",
         "publishedAt": "2026-09-23T13:39:23Z",
         "thumbnail": "https://i.ytimg.com/vi/y733NPaGYaQ/mqdefault.jpg",
-        "views": 4548
+        "views": 4774
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "totalViews": 231343,
-      "increase48h": 50402,
-      "baselineAt": "2026-09-22T01:34:47.545Z",
+      "totalViews": 233528,
+      "increase48h": 51542,
+      "baselineAt": "2026-09-22T06:46:04.565Z",
       "latest": {
         "id": "dM25JstAPaI",
         "title": "Ranking TRENDING Cam2r Reactions 🤯",
         "publishedAt": "2026-09-23T13:26:22Z",
         "thumbnail": "https://i.ytimg.com/vi/dM25JstAPaI/mqdefault.jpg",
-        "views": 7827
+        "views": 7913
       }
     }
   ]

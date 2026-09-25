@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T20:13:40.183Z",
+  "updatedAt": "2026-09-25T20:43:41.922Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,29 +8,29 @@
       "subscribers": 56600,
       "totalViews": 178207772,
       "increase48h": 528381,
-      "baselineAt": "2026-09-23T20:13:41.516Z",
+      "baselineAt": "2026-09-23T20:43:41.603Z",
       "latest": {
         "id": "AwZrpPzJ3xQ",
         "title": "Ranking FLABBERGASTED Cam2r Reactions 🔥",
         "publishedAt": "2026-09-25T13:54:00Z",
         "thumbnail": "https://i.ytimg.com/vi/AwZrpPzJ3xQ/mqdefault.jpg",
-        "views": 5183
+        "views": 5712
       }
     },
     {
       "handle": "ducktheoryone",
       "id": "UCdOOfO398jU_mNZdsejRzdg",
       "title": "Duck Theory",
-      "subscribers": 61,
+      "subscribers": 63,
       "totalViews": 87182,
       "increase48h": 28126,
-      "baselineAt": "2026-09-23T20:13:41.516Z",
+      "baselineAt": "2026-09-23T20:43:41.603Z",
       "latest": {
         "id": "a2WPIo8aIBo",
         "title": "Ranking INSANE Cam2r Reactions 😂",
         "publishedAt": "2026-09-25T13:14:27Z",
         "thumbnail": "https://i.ytimg.com/vi/a2WPIo8aIBo/mqdefault.jpg",
-        "views": 130
+        "views": 144
       }
     },
     {
@@ -40,29 +40,29 @@
       "subscribers": 3690,
       "totalViews": 1451289,
       "increase48h": 48356,
-      "baselineAt": "2026-09-23T20:13:41.516Z",
+      "baselineAt": "2026-09-23T20:43:41.603Z",
       "latest": {
         "id": "qPtBIMo_LWQ",
         "title": "Ranking RANDOM Cam2r Reactions 😱",
         "publishedAt": "2026-09-25T13:59:20Z",
         "thumbnail": "https://i.ytimg.com/vi/qPtBIMo_LWQ/mqdefault.jpg",
-        "views": 4657
+        "views": 5300
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "subscribers": 245,
+      "subscribers": 248,
       "totalViews": 282598,
       "increase48h": 51255,
-      "baselineAt": "2026-09-23T20:13:41.516Z",
+      "baselineAt": "2026-09-23T20:43:41.603Z",
       "latest": {
         "id": "GAmWVlGVkq0",
         "title": "Ranking EPIC Cam2r Reactions 🤯",
         "publishedAt": "2026-09-25T13:53:26Z",
         "thumbnail": "https://i.ytimg.com/vi/GAmWVlGVkq0/mqdefault.jpg",
-        "views": 2840
+        "views": 3148
       }
     }
   ]

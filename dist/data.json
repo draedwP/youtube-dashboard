@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T08:13:42.874Z",
+  "updatedAt": "2026-09-25T08:43:45.047Z",
   "channels": [
     {
       "handle": "theovonaction",
       "id": "UClJSMsLwG4Ld8QqN8qxO1Pw",
       "title": "Theo Love Action",
-      "totalViews": 177880999,
-      "increase48h": 395063,
-      "baselineAt": "2026-09-23T08:14:08.661Z",
+      "totalViews": 177949760,
+      "increase48h": 463824,
+      "baselineAt": "2026-09-23T08:44:13.382Z",
       "latest": {
         "id": "NCN62d_Jl1w",
         "title": "Ranking RIDICULOUS Cam2r Reactions 🔥",
         "publishedAt": "2026-09-24T13:22:38Z",
         "thumbnail": "https://i.ytimg.com/vi/NCN62d_Jl1w/mqdefault.jpg",
-        "views": 26028
+        "views": 26312
       }
     },
     {
@@ -22,7 +22,7 @@
       "title": "Duck Theory",
       "totalViews": 82512,
       "increase48h": 28516,
-      "baselineAt": "2026-09-23T08:14:08.661Z",
+      "baselineAt": "2026-09-23T08:44:13.382Z",
       "latest": {
         "id": "ziz7BIdbHdo",
         "title": "Ranking WILD Cam2r Reactions 😂",
@@ -37,13 +37,13 @@
       "title": "FoxBarra",
       "totalViews": 1416625,
       "increase48h": 19952,
-      "baselineAt": "2026-09-23T08:14:08.661Z",
+      "baselineAt": "2026-09-23T08:44:13.382Z",
       "latest": {
         "id": "_r2SaX3-cQY",
         "title": "Ranking CHAOTIC Cam2r Reactions 😱",
         "publishedAt": "2026-09-24T13:18:06Z",
         "thumbnail": "https://i.ytimg.com/vi/_r2SaX3-cQY/mqdefault.jpg",
-        "views": 29162
+        "views": 29282
       }
     },
     {
@@ -52,13 +52,13 @@
       "title": "ManBarra",
       "totalViews": 244796,
       "increase48h": 56495,
-      "baselineAt": "2026-09-23T08:14:08.661Z",
+      "baselineAt": "2026-09-23T08:44:13.382Z",
       "latest": {
         "id": "URnjUUkE3Fg",
         "title": "Ranking SHOCKING Cam2r Reactions 🤯",
         "publishedAt": "2026-09-24T13:38:26Z",
         "thumbnail": "https://i.ytimg.com/vi/URnjUUkE3Fg/mqdefault.jpg",
-        "views": 17379
+        "views": 18152
       }
     }
   ]

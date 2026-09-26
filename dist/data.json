@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:13:44.154Z",
+  "updatedAt": "2026-09-26T20:43:45.662Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,29 +8,29 @@
       "subscribers": 56800,
       "totalViews": 178728553,
       "increase48h": 1007556,
-      "baselineAt": "2026-09-24T20:13:42.201Z",
+      "baselineAt": "2026-09-24T20:43:41.712Z",
       "latest": {
         "id": "mO4cu6ZAnsE",
         "title": "Ranking RAGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-26T13:03:27Z",
         "thumbnail": "https://i.ytimg.com/vi/mO4cu6ZAnsE/mqdefault.jpg",
-        "views": 7258
+        "views": 7704
       }
     },
     {
       "handle": "ducktheoryone",
       "id": "UCdOOfO398jU_mNZdsejRzdg",
       "title": "Duck Theory",
-      "subscribers": 90,
+      "subscribers": 89,
       "totalViews": 105517,
       "increase48h": 44863,
-      "baselineAt": "2026-09-24T20:13:42.201Z",
+      "baselineAt": "2026-09-24T20:43:41.712Z",
       "latest": {
         "id": "WdTJA8uR9fo",
         "title": "Ranking JUICED Cam2r Reactions 😂",
         "publishedAt": "2026-09-26T13:55:04Z",
         "thumbnail": "https://i.ytimg.com/vi/WdTJA8uR9fo/mqdefault.jpg",
-        "views": 156
+        "views": 163
       }
     },
     {
@@ -40,13 +40,13 @@
       "subscribers": 3730,
       "totalViews": 1490275,
       "increase48h": 85948,
-      "baselineAt": "2026-09-24T20:13:42.201Z",
+      "baselineAt": "2026-09-24T20:43:41.712Z",
       "latest": {
         "id": "y8phOJYL5Rg",
         "title": "Ranking SALTY Cam2r Reactions 😱",
         "publishedAt": "2026-09-26T13:39:28Z",
         "thumbnail": "https://i.ytimg.com/vi/y8phOJYL5Rg/mqdefault.jpg",
-        "views": 314
+        "views": 369
       }
     },
     {
@@ -56,13 +56,13 @@
       "subscribers": 254,
       "totalViews": 310554,
       "increase48h": 77026,
-      "baselineAt": "2026-09-24T20:13:42.201Z",
+      "baselineAt": "2026-09-24T20:43:41.712Z",
       "latest": {
         "id": "_dnaKJx_uZ0",
         "title": "Ranking HILARIOUS Cam2r Reactions 🤯",
         "publishedAt": "2026-09-26T13:56:15Z",
         "thumbnail": "https://i.ytimg.com/vi/_dnaKJx_uZ0/mqdefault.jpg",
-        "views": 7535
+        "views": 8174
       }
     }
   ]

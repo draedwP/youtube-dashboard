@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T17:13:44.593Z",
+  "updatedAt": "2026-09-27T17:43:52.676Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,13 +8,13 @@
       "subscribers": 57000,
       "totalViews": 179105666,
       "increase48h": 897894,
-      "baselineAt": "2026-09-25T17:13:40.517Z",
+      "baselineAt": "2026-09-25T17:43:41.472Z",
       "latest": {
         "id": "rPYLATXCyXM",
         "title": "Ranking CRINGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-27T13:37:14Z",
         "thumbnail": "https://i.ytimg.com/vi/rPYLATXCyXM/mqdefault.jpg",
-        "views": 9850
+        "views": 11163
       }
     },
     {
@@ -24,13 +24,13 @@
       "subscribers": 118,
       "totalViews": 121005,
       "increase48h": 37589,
-      "baselineAt": "2026-09-25T17:13:40.517Z",
+      "baselineAt": "2026-09-25T17:43:41.472Z",
       "latest": {
         "id": "H9s7gNEh85U",
         "title": "Ranking GOOFY Cam2r Reactions 😂",
         "publishedAt": "2026-09-27T13:42:27Z",
         "thumbnail": "https://i.ytimg.com/vi/H9s7gNEh85U/mqdefault.jpg",
-        "views": 55
+        "views": 67
       }
     },
     {
@@ -40,29 +40,29 @@
       "subscribers": 3740,
       "totalViews": 1532529,
       "increase48h": 81240,
-      "baselineAt": "2026-09-25T17:13:40.517Z",
+      "baselineAt": "2026-09-25T17:43:41.472Z",
       "latest": {
         "id": "GqebT7GBWgw",
         "title": "Ranking SHOCKED Cam2r Reactions 😱",
         "publishedAt": "2026-09-27T13:25:33Z",
         "thumbnail": "https://i.ytimg.com/vi/GqebT7GBWgw/mqdefault.jpg",
-        "views": 1531
+        "views": 1689
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "subscribers": 280,
+      "subscribers": 283,
       "totalViews": 320278,
       "increase48h": 37680,
-      "baselineAt": "2026-09-25T17:13:40.517Z",
+      "baselineAt": "2026-09-25T17:43:41.472Z",
       "latest": {
         "id": "RvzR2uYSicI",
         "title": "Ranking RANDOM Cam2r Reactions 🤯",
         "publishedAt": "2026-09-27T13:29:09Z",
         "thumbnail": "https://i.ytimg.com/vi/RvzR2uYSicI/mqdefault.jpg",
-        "views": 2343
+        "views": 2607
       }
     }
   ]

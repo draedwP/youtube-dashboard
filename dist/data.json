@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T06:13:44.262Z",
+  "updatedAt": "2026-09-27T06:43:44.974Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,29 +8,29 @@
       "subscribers": 56900,
       "totalViews": 178728553,
       "increase48h": 847554,
-      "baselineAt": "2026-09-25T06:13:45.157Z",
+      "baselineAt": "2026-09-25T06:43:41.281Z",
       "latest": {
         "id": "mO4cu6ZAnsE",
         "title": "Ranking RAGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-26T13:03:27Z",
         "thumbnail": "https://i.ytimg.com/vi/mO4cu6ZAnsE/mqdefault.jpg",
-        "views": 15365
+        "views": 15645
       }
     },
     {
       "handle": "ducktheoryone",
       "id": "UCdOOfO398jU_mNZdsejRzdg",
       "title": "Duck Theory",
-      "subscribers": 107,
+      "subscribers": 110,
       "totalViews": 105517,
       "increase48h": 23005,
-      "baselineAt": "2026-09-25T06:13:45.157Z",
+      "baselineAt": "2026-09-25T06:43:41.281Z",
       "latest": {
         "id": "WdTJA8uR9fo",
         "title": "Ranking JUICED Cam2r Reactions 😂",
         "publishedAt": "2026-09-26T13:55:04Z",
         "thumbnail": "https://i.ytimg.com/vi/WdTJA8uR9fo/mqdefault.jpg",
-        "views": 1416
+        "views": 1500
       }
     },
     {
@@ -40,7 +40,7 @@
       "subscribers": 3740,
       "totalViews": 1490275,
       "increase48h": 73650,
-      "baselineAt": "2026-09-25T06:13:45.157Z",
+      "baselineAt": "2026-09-25T06:43:41.281Z",
       "latest": {
         "id": "y8phOJYL5Rg",
         "title": "Ranking SALTY Cam2r Reactions 😱",
@@ -56,13 +56,13 @@
       "subscribers": 269,
       "totalViews": 310554,
       "increase48h": 65758,
-      "baselineAt": "2026-09-25T06:13:45.157Z",
+      "baselineAt": "2026-09-25T06:43:41.281Z",
       "latest": {
         "id": "_dnaKJx_uZ0",
         "title": "Ranking HILARIOUS Cam2r Reactions 🤯",
         "publishedAt": "2026-09-26T13:56:15Z",
         "thumbnail": "https://i.ytimg.com/vi/_dnaKJx_uZ0/mqdefault.jpg",
-        "views": 44057
+        "views": 46732
       }
     }
   ]

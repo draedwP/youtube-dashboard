@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T08:13:50.067Z",
+  "updatedAt": "2026-09-27T08:43:49.099Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -7,14 +7,14 @@
       "title": "Theo Love Action",
       "subscribers": 56900,
       "totalViews": 179105666,
-      "increase48h": 1224667,
-      "baselineAt": "2026-09-25T08:13:42.874Z",
+      "increase48h": 1155906,
+      "baselineAt": "2026-09-25T08:43:45.047Z",
       "latest": {
         "id": "mO4cu6ZAnsE",
         "title": "Ranking RAGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-26T13:03:27Z",
         "thumbnail": "https://i.ytimg.com/vi/mO4cu6ZAnsE/mqdefault.jpg",
-        "views": 16367
+        "views": 16598
       }
     },
     {
@@ -24,13 +24,13 @@
       "subscribers": 104,
       "totalViews": 121005,
       "increase48h": 38493,
-      "baselineAt": "2026-09-25T08:13:42.874Z",
+      "baselineAt": "2026-09-25T08:43:45.047Z",
       "latest": {
         "id": "WdTJA8uR9fo",
         "title": "Ranking JUICED Cam2r Reactions 😂",
         "publishedAt": "2026-09-26T13:55:04Z",
         "thumbnail": "https://i.ytimg.com/vi/WdTJA8uR9fo/mqdefault.jpg",
-        "views": 2184
+        "views": 2403
       }
     },
     {
@@ -40,7 +40,7 @@
       "subscribers": 3740,
       "totalViews": 1532529,
       "increase48h": 115904,
-      "baselineAt": "2026-09-25T08:13:42.874Z",
+      "baselineAt": "2026-09-25T08:43:45.047Z",
       "latest": {
         "id": "y8phOJYL5Rg",
         "title": "Ranking SALTY Cam2r Reactions 😱",
@@ -56,13 +56,13 @@
       "subscribers": 269,
       "totalViews": 310554,
       "increase48h": 65758,
-      "baselineAt": "2026-09-25T08:13:42.874Z",
+      "baselineAt": "2026-09-25T08:43:45.047Z",
       "latest": {
         "id": "_dnaKJx_uZ0",
         "title": "Ranking HILARIOUS Cam2r Reactions 🤯",
         "publishedAt": "2026-09-26T13:56:15Z",
         "thumbnail": "https://i.ytimg.com/vi/_dnaKJx_uZ0/mqdefault.jpg",
-        "views": 55605
+        "views": 58384
       }
     }
   ]

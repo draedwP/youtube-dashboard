@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:43:45.088Z",
+  "updatedAt": "2026-09-28T10:13:47.635Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,13 +8,13 @@
       "subscribers": 57100,
       "totalViews": 179773658,
       "increase48h": 1429849,
-      "baselineAt": "2026-09-26T09:43:44.611Z",
+      "baselineAt": "2026-09-26T10:13:54.730Z",
       "latest": {
         "id": "rPYLATXCyXM",
         "title": "Ranking CRINGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-27T13:37:14Z",
         "thumbnail": "https://i.ytimg.com/vi/rPYLATXCyXM/mqdefault.jpg",
-        "views": 97631
+        "views": 98045
       }
     },
     {
@@ -24,7 +24,7 @@
       "subscribers": 126,
       "totalViews": 138382,
       "increase48h": 45833,
-      "baselineAt": "2026-09-26T09:43:44.611Z",
+      "baselineAt": "2026-09-26T10:13:54.730Z",
       "latest": {
         "id": "H9s7gNEh85U",
         "title": "Ranking GOOFY Cam2r Reactions 😂",
@@ -37,16 +37,16 @@
       "handle": "foxbarra",
       "id": "UCOug_4jRhMNEpL9GzOJALCg",
       "title": "FoxBarra",
-      "subscribers": 3740,
+      "subscribers": 3750,
       "totalViews": 1609857,
       "increase48h": 153565,
-      "baselineAt": "2026-09-26T09:43:44.611Z",
+      "baselineAt": "2026-09-26T10:13:54.730Z",
       "latest": {
         "id": "GqebT7GBWgw",
         "title": "Ranking SHOCKED Cam2r Reactions 😱",
         "publishedAt": "2026-09-27T13:25:33Z",
         "thumbnail": "https://i.ytimg.com/vi/GqebT7GBWgw/mqdefault.jpg",
-        "views": 17010
+        "views": 17165
       }
     },
     {
@@ -56,13 +56,13 @@
       "subscribers": 304,
       "totalViews": 376291,
       "increase48h": 84821,
-      "baselineAt": "2026-09-26T09:43:44.611Z",
+      "baselineAt": "2026-09-26T10:13:54.730Z",
       "latest": {
         "id": "RvzR2uYSicI",
         "title": "Ranking RANDOM Cam2r Reactions 🤯",
         "publishedAt": "2026-09-27T13:29:09Z",
         "thumbnail": "https://i.ytimg.com/vi/RvzR2uYSicI/mqdefault.jpg",
-        "views": 33791
+        "views": 33971
       }
     }
   ]

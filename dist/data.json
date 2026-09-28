@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:13:46.042Z",
+  "updatedAt": "2026-09-28T11:43:51.694Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,23 +8,23 @@
       "subscribers": 57200,
       "totalViews": 179773658,
       "increase48h": 1429849,
-      "baselineAt": "2026-09-26T11:13:49.938Z",
+      "baselineAt": "2026-09-26T11:43:48.893Z",
       "latest": {
         "id": "rPYLATXCyXM",
         "title": "Ranking CRINGE Cam2r Reactions 🔥",
         "publishedAt": "2026-09-27T13:37:14Z",
         "thumbnail": "https://i.ytimg.com/vi/rPYLATXCyXM/mqdefault.jpg",
-        "views": 98766
+        "views": 99112
       }
     },
     {
       "handle": "ducktheoryone",
       "id": "UCdOOfO398jU_mNZdsejRzdg",
       "title": "Duck Theory",
-      "subscribers": 126,
+      "subscribers": 125,
       "totalViews": 138382,
       "increase48h": 45833,
-      "baselineAt": "2026-09-26T11:13:49.938Z",
+      "baselineAt": "2026-09-26T11:43:48.893Z",
       "latest": {
         "id": "H9s7gNEh85U",
         "title": "Ranking GOOFY Cam2r Reactions 😂",
@@ -40,29 +40,29 @@
       "subscribers": 3740,
       "totalViews": 1609857,
       "increase48h": 153565,
-      "baselineAt": "2026-09-26T11:13:49.938Z",
+      "baselineAt": "2026-09-26T11:43:48.893Z",
       "latest": {
         "id": "GqebT7GBWgw",
         "title": "Ranking SHOCKED Cam2r Reactions 😱",
         "publishedAt": "2026-09-27T13:25:33Z",
         "thumbnail": "https://i.ytimg.com/vi/GqebT7GBWgw/mqdefault.jpg",
-        "views": 17545
+        "views": 17681
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "subscribers": 305,
+      "subscribers": 304,
       "totalViews": 376291,
       "increase48h": 84821,
-      "baselineAt": "2026-09-26T11:13:49.938Z",
+      "baselineAt": "2026-09-26T11:43:48.893Z",
       "latest": {
         "id": "RvzR2uYSicI",
         "title": "Ranking RANDOM Cam2r Reactions 🤯",
         "publishedAt": "2026-09-27T13:29:09Z",
         "thumbnail": "https://i.ytimg.com/vi/RvzR2uYSicI/mqdefault.jpg",
-        "views": 34370
+        "views": 34652
       }
     }
   ]

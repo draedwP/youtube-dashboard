@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:13:48.095Z",
+  "updatedAt": "2026-09-29T15:43:53.403Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -8,13 +8,13 @@
       "subscribers": 57300,
       "totalViews": 181191357,
       "increase48h": 2085691,
-      "baselineAt": "2026-09-27T15:13:55.180Z",
+      "baselineAt": "2026-09-27T15:43:50.454Z",
       "latest": {
         "id": "cbdRdoG6ztI",
         "title": "Ranking GOOFY Cam2r Reactions 🔥",
         "publishedAt": "2026-09-29T13:34:32Z",
         "thumbnail": "https://i.ytimg.com/vi/cbdRdoG6ztI/mqdefault.jpg",
-        "views": 704
+        "views": 1130
       }
     },
     {
@@ -24,7 +24,7 @@
       "subscribers": 125,
       "totalViews": 177032,
       "increase48h": 56027,
-      "baselineAt": "2026-09-27T15:13:55.180Z",
+      "baselineAt": "2026-09-27T15:43:50.454Z",
       "latest": {
         "id": "FDY_sBG4MAk",
         "title": "Ranking UNHINGED Cam2r Reactions 😂",
@@ -40,29 +40,29 @@
       "subscribers": 3760,
       "totalViews": 1656237,
       "increase48h": 123708,
-      "baselineAt": "2026-09-27T15:13:55.180Z",
+      "baselineAt": "2026-09-27T15:43:50.454Z",
       "latest": {
         "id": "Jdk18FQU8bQ",
         "title": "Ranking DRAMATIC Cam2r Reactions 😱",
         "publishedAt": "2026-09-29T13:37:13Z",
         "thumbnail": "https://i.ytimg.com/vi/Jdk18FQU8bQ/mqdefault.jpg",
-        "views": 438
+        "views": 750
       }
     },
     {
       "handle": "ManBarra",
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
-      "subscribers": 305,
+      "subscribers": 307,
       "totalViews": 487874,
       "increase48h": 167596,
-      "baselineAt": "2026-09-27T15:13:55.180Z",
+      "baselineAt": "2026-09-27T15:43:50.454Z",
       "latest": {
         "id": "22tvfd4kFx8",
         "title": "Ranking UNHINGED Cam2r Reactions 🤯",
         "publishedAt": "2026-09-29T13:31:10Z",
         "thumbnail": "https://i.ytimg.com/vi/22tvfd4kFx8/mqdefault.jpg",
-        "views": 607
+        "views": 1042
       }
     }
   ]

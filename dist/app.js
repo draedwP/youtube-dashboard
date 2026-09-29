@@ -1,4 +1,4 @@
-const handles=['theovonaction','ducktheoryone','foxbarra','ManBarra'];
+const channelRefs=['theovonaction','ducktheoryone','foxbarra','ManBarra','UCRJOilqyVm2aY2hsmoNJa4w','UC1jLkQxsfKKlLfBSIKLLpdA'];
 const fmt=n=>new Intl.NumberFormat('en-US').format(n);
 function el(tag,text,cls){const n=document.createElement(tag);if(text!=null)n.textContent=text;if(cls)n.className=cls;return n}
 let lastSnapshot;
@@ -13,8 +13,8 @@ async function load(){
   const stale=data.updatedAt&&Date.now()-Date.parse(data.updatedAt)>3600000;
   document.querySelector('#status').textContent=data.updatedAt?`${stale?'Updates delayed · ':''}Last collected ${new Date(data.updatedAt).toLocaleString()} · Snapshots collected automatically when GitHub runs the scheduled job`:'Waiting for the first snapshot. Collection starts after the API key is configured.';
   const grid=document.querySelector('#channels');grid.replaceChildren();
-  for(const handle of handles){
-   const c=data.channels.find(x=>x.handle===handle);const card=el('article');const heading=el('h2');const link=el('a',c?.title||'@'+handle);link.href='https://www.youtube.com/@'+handle;heading.append(link);heading.style.marginBottom='6px';const subscriberText=c&&Object.hasOwn(c,'subscribers')?c.subscribers!=null?`${fmt(c.subscribers)} subscribers`:'Subscriber count hidden':'Subscriber count will appear after the next collection';const subscribers=el('p',subscriberText,'meta');subscribers.style.margin='0 0 24px';card.append(heading,subscribers,el('p','48h view-count increase','label'));
+  for(const ref of channelRefs){
+   const c=data.channels.find(x=>x.handle===ref||x.id===ref);const card=el('article');const heading=el('h2');const link=el('a',c?.title||(ref.startsWith('UC')?ref:'@'+ref));link.href=c?.url||(ref.startsWith('UC')?'https://www.youtube.com/channel/'+ref:'https://www.youtube.com/@'+ref);heading.append(link);heading.style.marginBottom='6px';const subscriberText=c&&Object.hasOwn(c,'subscribers')?c.subscribers!=null?`${fmt(c.subscribers)} subscribers`:'Subscriber count hidden':'Subscriber count will appear after the next collection';const subscribers=el('p',subscriberText,'meta');subscribers.style.margin='0 0 24px';card.append(heading,subscribers,el('p','48h view-count increase','label'));
    card.append(el('p',c?.increase48h!=null?`${c.increase48h>0?'+':''}${fmt(c.increase48h)}`:'—','count'));
    card.append(el('p',c?.increase48h!=null?`Compared with snapshot from ${new Date(c.baselineAt).toLocaleString()}`:c?'Waiting for a snapshot at least 48 hours after tracking began…':'Not connected yet','meta'));
    const v=el('div',null,'video');

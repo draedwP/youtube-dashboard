@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T13:13:49.619Z",
+  "updatedAt": "2026-09-30T13:43:47.466Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -9,13 +9,13 @@
       "subscribers": 57500,
       "totalViews": 181777711,
       "increase48h": 2004053,
-      "baselineAt": "2026-09-28T13:13:48.775Z",
+      "baselineAt": "2026-09-28T13:43:50.980Z",
       "latest": {
-        "id": "cbdRdoG6ztI",
-        "title": "Ranking GOOFY Cam2r Reactions 🔥",
-        "publishedAt": "2026-09-29T13:34:32Z",
-        "thumbnail": "https://i.ytimg.com/vi/cbdRdoG6ztI/mqdefault.jpg",
-        "views": 31640
+        "id": "3RG1T9b1S5g",
+        "title": "Ranking DERANGED Cam2r Reactions 🔥",
+        "publishedAt": "2026-09-30T13:31:25Z",
+        "thumbnail": "https://i.ytimg.com/vi/3RG1T9b1S5g/mqdefault.jpg",
+        "views": 211
       }
     },
     {
@@ -26,13 +26,13 @@
       "subscribers": 147,
       "totalViews": 183736,
       "increase48h": 45354,
-      "baselineAt": "2026-09-28T13:13:48.775Z",
+      "baselineAt": "2026-09-28T13:43:50.980Z",
       "latest": {
-        "id": "FDY_sBG4MAk",
-        "title": "Ranking UNHINGED Cam2r Reactions 😂",
-        "publishedAt": "2026-09-29T13:29:23Z",
-        "thumbnail": "https://i.ytimg.com/vi/FDY_sBG4MAk/mqdefault.jpg",
-        "views": 5258
+        "id": "20JcTffTAPM",
+        "title": "Ranking AMAZING Cam2r Reactions 😂",
+        "publishedAt": "2026-09-30T13:40:10Z",
+        "thumbnail": "https://i.ytimg.com/vi/20JcTffTAPM/mqdefault.jpg",
+        "views": 0
       }
     },
     {
@@ -43,13 +43,13 @@
       "subscribers": 3770,
       "totalViews": 1678798,
       "increase48h": 68941,
-      "baselineAt": "2026-09-28T13:13:48.775Z",
+      "baselineAt": "2026-09-28T13:43:50.980Z",
       "latest": {
-        "id": "Jdk18FQU8bQ",
-        "title": "Ranking DRAMATIC Cam2r Reactions 😱",
-        "publishedAt": "2026-09-29T13:37:13Z",
-        "thumbnail": "https://i.ytimg.com/vi/Jdk18FQU8bQ/mqdefault.jpg",
-        "views": 12131
+        "id": "V8y24FGmAOs",
+        "title": "Ranking WHOA Cam2r Reactions 😱",
+        "publishedAt": "2026-09-30T13:24:40Z",
+        "thumbnail": "https://i.ytimg.com/vi/V8y24FGmAOs/mqdefault.jpg",
+        "views": 130
       }
     },
     {
@@ -60,13 +60,13 @@
       "subscribers": 347,
       "totalViews": 491852,
       "increase48h": 115561,
-      "baselineAt": "2026-09-28T13:13:48.775Z",
+      "baselineAt": "2026-09-28T13:43:50.980Z",
       "latest": {
-        "id": "22tvfd4kFx8",
-        "title": "Ranking UNHINGED Cam2r Reactions 🤯",
-        "publishedAt": "2026-09-29T13:31:10Z",
-        "thumbnail": "https://i.ytimg.com/vi/22tvfd4kFx8/mqdefault.jpg",
-        "views": 17600
+        "id": "0ZdKFIMyUZs",
+        "title": "Ranking CRACKED Cam2r Reactions 🤯",
+        "publishedAt": "2026-09-30T13:19:39Z",
+        "thumbnail": "https://i.ytimg.com/vi/0ZdKFIMyUZs/mqdefault.jpg",
+        "views": 186
       }
     },
     {
@@ -78,7 +78,13 @@
       "totalViews": 0,
       "increase48h": null,
       "baselineAt": null,
-      "latest": null
+      "latest": {
+        "id": "annR-rvhPVQ",
+        "title": "Ranking SILLY Cam2r Reactions 🍅",
+        "publishedAt": "2026-09-30T13:38:06Z",
+        "thumbnail": "https://i.ytimg.com/vi/annR-rvhPVQ/mqdefault.jpg",
+        "views": 3
+      }
     },
     {
       "handle": "angerhours",
@@ -89,7 +95,13 @@
       "totalViews": 0,
       "increase48h": null,
       "baselineAt": null,
-      "latest": null
+      "latest": {
+        "id": "cTKHqRt41TI",
+        "title": "Ranking CHAOTIC Cam2r Reactions 🍆",
+        "publishedAt": "2026-09-30T13:31:30Z",
+        "thumbnail": "https://i.ytimg.com/vi/cTKHqRt41TI/mqdefault.jpg",
+        "views": 0
+      }
     }
   ]
 }

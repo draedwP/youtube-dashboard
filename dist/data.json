@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-03T02:13:51.422Z",
+  "updatedAt": "2026-10-03T02:43:55.489Z",
   "channels": [
     {
       "handle": "theovonaction",
       "id": "UClJSMsLwG4Ld8QqN8qxO1Pw",
       "title": "Theo Love Action",
       "url": "https://www.youtube.com/@theovonaction",
-      "subscribers": 58100,
+      "subscribers": 58200,
       "totalViews": 183268761,
       "increase48h": 1223120,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "IuLRexWWePk",
         "title": "Ranking DUMBFOUNDED Cam2r Reactions 🔥",
         "publishedAt": "2026-10-02T13:18:08Z",
         "thumbnail": "https://i.ytimg.com/vi/IuLRexWWePk/mqdefault.jpg",
-        "views": 17383
+        "views": 18147
       }
     },
     {
@@ -26,13 +26,13 @@
       "subscribers": 255,
       "totalViews": 256732,
       "increase48h": 63559,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "g-ZMnEIQzMo",
         "title": "Ranking RIDICULOUS Cam2r Reactions 😂",
         "publishedAt": "2026-10-02T13:31:26Z",
         "thumbnail": "https://i.ytimg.com/vi/g-ZMnEIQzMo/mqdefault.jpg",
-        "views": 16955
+        "views": 18429
       }
     },
     {
@@ -43,13 +43,13 @@
       "subscribers": 3840,
       "totalViews": 1743178,
       "increase48h": 50413,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "XzYMvt-qQu4",
         "title": "Ranking BONKERS Cam2r Reactions 😱",
         "publishedAt": "2026-10-02T13:58:17Z",
         "thumbnail": "https://i.ytimg.com/vi/XzYMvt-qQu4/mqdefault.jpg",
-        "views": 11245
+        "views": 17942
       }
     },
     {
@@ -57,16 +57,16 @@
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
       "url": "https://www.youtube.com/@ManBarra",
-      "subscribers": 409,
-      "totalViews": 549479,
-      "increase48h": 39452,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "subscribers": 410,
+      "totalViews": 557795,
+      "increase48h": 47768,
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "qb1YUxhZKxk",
         "title": "Ranking BIZARRE Cam2r Reactions 🤯",
         "publishedAt": "2026-10-02T13:10:22Z",
         "thumbnail": "https://i.ytimg.com/vi/qb1YUxhZKxk/mqdefault.jpg",
-        "views": 3549
+        "views": 3667
       }
     },
     {
@@ -77,7 +77,7 @@
       "subscribers": 4,
       "totalViews": 11499,
       "increase48h": 11499,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "MsPxARrj4-s",
         "title": "Ranking CRAZY Cam2r Reactions 🍅",
@@ -91,16 +91,16 @@
       "id": "UC1jLkQxsfKKlLfBSIKLLpdA",
       "title": "Anger Hours",
       "url": "https://www.youtube.com/@angerhours",
-      "subscribers": 1,
+      "subscribers": 3,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-10-01T02:13:43.614Z",
+      "baselineAt": "2026-10-01T02:43:46.192Z",
       "latest": {
         "id": "gurAwPoMNfo",
         "title": "Ranking WILD Cam2r Reactions 🍆",
         "publishedAt": "2026-10-02T13:11:20Z",
         "thumbnail": "https://i.ytimg.com/vi/gurAwPoMNfo/mqdefault.jpg",
-        "views": 3239
+        "views": 3366
       }
     },
     {
@@ -108,7 +108,7 @@
       "id": "UCVjEVDRu-WxXuOapPNCa9Kw",
       "title": "Veeq Jump",
       "url": "https://www.youtube.com/@veeqjump",
-      "subscribers": 5,
+      "subscribers": 6,
       "totalViews": 0,
       "increase48h": null,
       "baselineAt": null,
@@ -117,7 +117,7 @@
         "title": "Ranking SHOCKED Cam2r Reactions 😭",
         "publishedAt": "2026-10-02T13:54:17Z",
         "thumbnail": "https://i.ytimg.com/vi/nOkqHy4xC-g/mqdefault.jpg",
-        "views": 5402
+        "views": 5608
       }
     },
     {

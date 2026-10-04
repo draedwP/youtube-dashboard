@@ -1,4 +1,4 @@
-const channelRefs=['theovonaction','ducktheoryone','foxbarra','ManBarra','tomatospynow','angerhours','veeqjump','orangelownow'];
+const channelRefs=["theovonaction","ducktheoryone","foxbarra","ManBarra","tomatospynow","angerhours","veeqjump","orangelownow","ninjapiknow","gunterfriend","howyoudoinnow","momentsalonenow","bestclipcentre"];
 const fmt=n=>new Intl.NumberFormat('en-US').format(n);
 function el(tag,text,cls){const n=document.createElement(tag);if(text!=null)n.textContent=text;if(cls)n.className=cls;return n}
 let lastSnapshot;

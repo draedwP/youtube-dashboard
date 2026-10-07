@@ -14,10 +14,12 @@ async function load(){
    status.textContent='Schedule access is not connected yet. Scheduled uploads are private and require access to the channel accounts.';
    list.replaceChildren();return;
   }
+  const unavailable=(data.scheduleChannels||[]).filter(c=>!c.success);
   const videos=[...data.scheduledVideos].sort((a,b)=>Date.parse(a.publishAt)-Date.parse(b.publishAt));
-  status.textContent=videos.length+' scheduled video'+(videos.length===1?'':'s')+' · Last checked '+new Date(data.scheduleUpdatedAt||data.updatedAt).toLocaleString();
+  status.textContent=(data.scheduleError?'Schedule updates delayed · ':'')+videos.length+' scheduled video'+(videos.length===1?'':'s')+' · Last checked '+new Date(data.scheduleUpdatedAt||data.updatedAt).toLocaleString();
   list.replaceChildren();
-  if(!videos.length){list.append(element('p','No scheduled videos found in the connected channels.'));return}
+  if(unavailable.length){const note=element('p','Schedule unavailable for: '+unavailable.map(c=>c.title).join(', '));note.className='meta';list.append(note)}
+  if(!videos.length){list.append(element('p','No scheduled videos found in the channels checked successfully.'));return}
   for(const video of videos){
    const card=element('article','');card.style.margin='16px 0';
    card.append(element('h2',video.channelTitle||video.channelHandle),element('p',video.title),element('p','Scheduled: '+new Date(video.publishAt).toLocaleString()));

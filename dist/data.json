@@ -221,23 +221,6 @@
         "thumbnail": "https://i.ytimg.com/vi/pZGeUzZkqYU/mqdefault.jpg",
         "views": 30
       }
-    },
-    {
-      "handle": "dripitipi",
-      "id": "UCOZ0Kdq-W6ODURn-_K7ilUw",
-      "title": "dripi tipi",
-      "url": "https://www.youtube.com/@dripitipi",
-      "subscribers": 993,
-      "totalViews": 3292084,
-      "increase48h": null,
-      "baselineAt": null,
-      "latest": {
-        "id": "epXv3dQA0Ys",
-        "title": "Ranking VIRAL Justin Nunley Reactions 😂",
-        "publishedAt": "2026-10-06T13:02:04Z",
-        "thumbnail": "https://i.ytimg.com/vi/epXv3dQA0Ys/mqdefault.jpg",
-        "views": 29819
-      }
     }
   ],
   "scheduledVideos": [
@@ -398,11 +381,6 @@
       "handle": "bestclipcentre",
       "title": "Best Clip Centre",
       "success": true
-    },
-    {
-      "handle": "dripitipi",
-      "title": "dripi tipi",
-      "success": false
     }
   ],
   "scheduleUpdatedAt": "2026-10-07T09:02:18.404651+00:00",

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Scheduled videos · Channel Pulse</title><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23ff404f'/%3E%3Cpath d='M12 8v16l13-8z' fill='white'/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css"></head>
+<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Scheduled videos</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Channel views</a><a href="scheduled.html" aria-current="page">Scheduled videos</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
+const status=document.querySelector('#status'),list=document.querySelector('#schedule');
+let loading=false;
+function element(tag,text){const n=document.createElement(tag);n.textContent=text;return n}
+async function load(){
+ if(loading)return;loading=true;
+ try{
+  const response=await fetch('data.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(15000)});
+  if(!response.ok)throw Error('Unavailable');
+  const data=await response.json();
+  if(!Array.isArray(data.scheduledVideos)){
+   status.textContent='Schedule access is not connected yet. Scheduled uploads are private and require access to the channel accounts.';
+   list.replaceChildren();return;
+  }
+  const videos=[...data.scheduledVideos].sort((a,b)=>Date.parse(a.publishAt)-Date.parse(b.publishAt));
+  status.textContent=videos.length+' scheduled video'+(videos.length===1?'':'s')+' · Last checked '+new Date(data.scheduleUpdatedAt||data.updatedAt).toLocaleString();
+  list.replaceChildren();
+  if(!videos.length){list.append(element('p','No scheduled videos found in the connected channels.'));return}
+  for(const video of videos){
+   const card=element('article','');card.style.margin='16px 0';
+   card.append(element('h2',video.channelTitle||video.channelHandle),element('p',video.title),element('p','Scheduled: '+new Date(video.publishAt).toLocaleString()));
+   list.append(card);
+  }
+ }catch{status.textContent='Could not check the schedule. Try again shortly.'}finally{loading=false}
+}
+load();setInterval(load,60000);
+</script></body></html>

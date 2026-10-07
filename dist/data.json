@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:43:27.275Z",
+  "updatedAt": "2026-10-07T21:13:25.834Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking STUNNING Cam2r Reactions 🔥",
         "publishedAt": "2026-10-07T13:52:25Z",
         "thumbnail": "https://i.ytimg.com/vi/tn-Jiq7gteI/mqdefault.jpg",
-        "views": 1726
+        "views": 1841
       }
     },
     {
@@ -32,7 +32,7 @@
         "title": "Ranking WHOLESOME Cam2r Reactions 😂",
         "publishedAt": "2026-10-07T13:16:40Z",
         "thumbnail": "https://i.ytimg.com/vi/6beQbYdjqqg/mqdefault.jpg",
-        "views": 1877
+        "views": 1953
       }
     },
     {
@@ -49,7 +49,7 @@
         "title": "Ranking CRINGE Cam2r Reactions 😱",
         "publishedAt": "2026-10-07T13:18:04Z",
         "thumbnail": "https://i.ytimg.com/vi/s2IlnZ3mfk4/mqdefault.jpg",
-        "views": 5005
+        "views": 5492
       }
     },
     {
@@ -57,7 +57,7 @@
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
       "url": "https://www.youtube.com/@ManBarra",
-      "subscribers": 471,
+      "subscribers": 470,
       "totalViews": 653690,
       "increase48h": 23849,
       "baselineAt": "2026-10-05T20:49:11.555Z",
@@ -66,7 +66,7 @@
         "title": "Ranking WOW Cam2r Reactions 🤯",
         "publishedAt": "2026-10-07T13:01:01Z",
         "thumbnail": "https://i.ytimg.com/vi/a-vJnsBFn7c/mqdefault.jpg",
-        "views": 2997
+        "views": 3157
       }
     },
     {
@@ -117,7 +117,7 @@
         "title": "Ranking HILARIOUS Cam2r Reactions 😭",
         "publishedAt": "2026-10-07T13:41:02Z",
         "thumbnail": "https://i.ytimg.com/vi/4V4pZFHsAgY/mqdefault.jpg",
-        "views": 8
+        "views": 7
       }
     },
     {
@@ -159,7 +159,7 @@
       "id": "UC6ZhbYnZHSPhOqv27m4rvsg",
       "title": "Gunter Friend",
       "url": "https://www.youtube.com/@gunterfriend",
-      "subscribers": 4,
+      "subscribers": 5,
       "totalViews": 1017,
       "increase48h": 1017,
       "baselineAt": "2026-10-05T20:49:11.555Z",
@@ -168,7 +168,7 @@
         "title": "Ranking WILD Cam2r Reactions 🤓",
         "publishedAt": "2026-10-07T13:33:28Z",
         "thumbnail": "https://i.ytimg.com/vi/G5zjoykUExw/mqdefault.jpg",
-        "views": 1592
+        "views": 1695
       }
     },
     {
@@ -185,7 +185,7 @@
         "title": "Ranking SILLY Cam2r Reactions 🤪",
         "publishedAt": "2026-10-07T13:13:30Z",
         "thumbnail": "https://i.ytimg.com/vi/KgNnMTZjWGw/mqdefault.jpg",
-        "views": 9
+        "views": 16
       }
     },
     {
@@ -211,15 +211,15 @@
       "title": "Best Clip Centre",
       "url": "https://www.youtube.com/@bestclipcentre",
       "subscribers": 0,
-      "totalViews": 174,
-      "increase48h": 60,
+      "totalViews": 191,
+      "increase48h": 77,
       "baselineAt": "2026-10-05T20:49:11.555Z",
       "latest": {
         "id": "X-ibAKTeVns",
         "title": "Ranking SILLY Cam2r Reactions 🥶",
         "publishedAt": "2026-10-07T13:37:23Z",
         "thumbnail": "https://i.ytimg.com/vi/X-ibAKTeVns/mqdefault.jpg",
-        "views": 12
+        "views": 10
       }
     }
   ],
@@ -291,6 +291,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-10-07T20:43:43.646003+00:00",
+  "scheduleUpdatedAt": "2026-10-07T21:13:45.448356+00:00",
   "scheduleError": false
 }

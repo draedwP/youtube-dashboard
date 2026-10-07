@@ -3,6 +3,30 @@ import {pathToFileURL} from 'node:url';
 const HOUR=3600000;
 export function baseline(history,now){const target=now-48*HOUR;const tolerance=6*HOUR;return history.filter(p=>Math.abs(p.at-target)<=tolerance).sort((a,b)=>Math.abs(a.at-target)-Math.abs(b.at-target)||a.at-b.at)[0]||null}
 async function api(resource,params,key){const url=new URL('https://www.googleapis.com/youtube/v3/'+resource);for(const [k,v]of Object.entries({...params,key}))url.searchParams.set(k,v);const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok){const error=Error(`YouTube ${resource} request failed (HTTP ${r.status}); check key, quota and API enablement.`);error.status=r.status;throw error;}return r.json()}
+
+async function collectSchedule(channels){
+ const aliases={theovonaction:'theo',ducktheoryone:'duck',foxbarra:'fox'};
+ const response=await fetch('https://cam2r-renderer-420557143721.europe-west1.run.app/youtube-schedule-status',{
+  method:'POST',headers:{'Content-Type':'application/json'},
+  body:JSON.stringify({channels:channels.map(c=>({youtubeChannelKey:aliases[c.handle]||c.handle.toLowerCase(),youtubeChannelId:c.id,channelName:c.title}))}),
+  signal:AbortSignal.timeout(300000)
+ });
+ if(!response.ok)throw Error('Schedule service unavailable');
+ const result=await response.json();
+ if(!result.success||!Array.isArray(result.results))throw Error('Invalid schedule response');
+ const scheduledVideos=[],scheduleChannels=[];
+ for(const channel of channels){
+  const item=result.results.find(r=>r.channelId===channel.id);
+  const success=item?.success===true&&Array.isArray(item.scheduled);
+  scheduleChannels.push({handle:channel.handle,title:channel.title,success});
+  if(success)for(const v of item.scheduled){
+   if(typeof v.title==='string'&&Number.isFinite(Date.parse(v.publishAt))&&Date.parse(v.publishAt)>Date.now())
+    scheduledVideos.push({id:v.videoId,title:v.title,publishAt:v.publishAt,channelTitle:channel.title,channelHandle:channel.handle});
+  }
+ }
+ return {scheduledVideos,scheduleChannels,scheduleUpdatedAt:result.checkedAt||new Date().toISOString(),scheduleError:false};
+}
+
 async function main(){
  const key=process.env.YOUTUBE_API_KEY;if(!key)throw Error('Add the YOUTUBE_API_KEY repository secret first.');
  const channelRefs=JSON.parse(await readFile('channels.json','utf8'));let history={};try{history=JSON.parse(await readFile('history/snapshots.json','utf8'))}catch(e){if(e.code!=='ENOENT')throw e}
@@ -20,7 +44,12 @@ async function main(){
   points.push({at:now,views});history[c.id]=points.filter(p=>p.at>=now-7*24*HOUR);
   channels.push({handle:ref,id:c.id,title:c.snippet.title,url:isChannelId?'https://www.youtube.com/channel/'+c.id:'https://www.youtube.com/@'+ref,subscribers,totalViews:views,increase48h:base?views-base.views:null,baselineAt:base?new Date(base.at).toISOString():null,latest});
  }
- await mkdir('history',{recursive:true});await writeFile('history/snapshots.json',JSON.stringify(history));await writeFile('dist/data.json',JSON.stringify({updatedAt:new Date(now).toISOString(),channels},null,2));
+ let schedule;
+ try{schedule=await collectSchedule(channels)}
+ catch{console.log('Schedule check failed; keeping previous schedule when available.');let previous={};try{previous=JSON.parse(await readFile('dist/data.json','utf8'))}catch{}
+ schedule={scheduledVideos:previous.scheduledVideos,scheduleChannels:previous.scheduleChannels,scheduleUpdatedAt:previous.scheduleUpdatedAt,scheduleError:true};
+ }
+ await mkdir('history',{recursive:true});await writeFile('history/snapshots.json',JSON.stringify(history));await writeFile('dist/data.json',JSON.stringify({updatedAt:new Date(now).toISOString(),channels,...schedule},null,2));
  console.log('Collected '+channels.length+' channels.');
 }
 if(process.argv[1]&&import.meta.url===pathToFileURL(process.argv[1]).href)main().catch(e=>{console.error(e.message);process.exitCode=1});

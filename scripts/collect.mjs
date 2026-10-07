@@ -21,7 +21,7 @@ async function collectSchedule(channels){
   scheduleChannels.push({handle:channel.handle,title:channel.title,success});
   if(success)for(const v of item.scheduled){
    if(typeof v.title==='string'&&Number.isFinite(Date.parse(v.publishAt))&&Date.parse(v.publishAt)>Date.now())
-    scheduledVideos.push({id:v.videoId,title:v.title,publishAt:v.publishAt,channelTitle:channel.title,channelHandle:channel.handle});
+    scheduledVideos.push({id:v.videoId,title:v.title,publishAt:v.publishAt,thumbnail:v.thumbnailUrl||null,channelTitle:channel.title,channelHandle:channel.handle});
   }
  }
  return {scheduledVideos,scheduleChannels,scheduleUpdatedAt:result.checkedAt||new Date().toISOString(),scheduleError:false};

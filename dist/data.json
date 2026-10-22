@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T04:44:04.576Z",
+  "updatedAt": "2026-10-22T05:14:02.834Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking UNEXPECTED Cam2r Reactions 🔥",
         "publishedAt": "2026-10-21T13:13:24Z",
         "thumbnail": "https://i.ytimg.com/vi/dpOWbmdFpvw/mqdefault.jpg",
-        "views": 5083
+        "views": 5124
       }
     },
     {
@@ -49,7 +49,7 @@
         "title": "Ranking FLUSTERED Cam2r Reactions 😱",
         "publishedAt": "2026-10-21T13:57:05Z",
         "thumbnail": "https://i.ytimg.com/vi/8T7CGkJWRWA/mqdefault.jpg",
-        "views": 1379
+        "views": 1444
       }
     },
     {
@@ -58,8 +58,8 @@
       "title": "ManBarra",
       "url": "https://www.youtube.com/@ManBarra",
       "subscribers": 553,
-      "totalViews": 813934,
-      "increase48h": 10742,
+      "totalViews": 815618,
+      "increase48h": 12426,
       "baselineAt": "2026-10-20T05:13:23.116Z",
       "latest": {
         "id": "bM2X_n5amQE",
@@ -143,8 +143,8 @@
       "title": "Ninja Pik",
       "url": "https://www.youtube.com/@ninjapiknow",
       "subscribers": 35,
-      "totalViews": 45980,
-      "increase48h": 12,
+      "totalViews": 47474,
+      "increase48h": 1506,
       "baselineAt": "2026-10-20T05:13:23.116Z",
       "latest": {
         "id": "bk8V9T8DBV4",
@@ -159,16 +159,16 @@
       "id": "UC6ZhbYnZHSPhOqv27m4rvsg",
       "title": "Gunter Friend",
       "url": "https://www.youtube.com/@gunterfriend",
-      "subscribers": 62,
-      "totalViews": 86265,
-      "increase48h": 50,
+      "subscribers": 61,
+      "totalViews": 86681,
+      "increase48h": 466,
       "baselineAt": "2026-10-20T05:13:23.116Z",
       "latest": {
         "id": "aFXn0_VSRac",
         "title": "Ranking GOOFY Cam2r Reactions 🤓",
         "publishedAt": "2026-10-21T13:57:15Z",
         "thumbnail": "https://i.ytimg.com/vi/aFXn0_VSRac/mqdefault.jpg",
-        "views": 2198
+        "views": 2203
       }
     },
     {
@@ -177,8 +177,8 @@
       "title": "How You Doin ",
       "url": "https://www.youtube.com/@howyoudoinnow",
       "subscribers": 0,
-      "totalViews": 1067,
-      "increase48h": 39,
+      "totalViews": 1064,
+      "increase48h": 36,
       "baselineAt": "2026-10-20T05:13:23.116Z",
       "latest": {
         "id": "kqI5B0sboW4",
@@ -291,6 +291,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-10-22T04:44:31.733289+00:00",
+  "scheduleUpdatedAt": "2026-10-22T05:14:29.642831+00:00",
   "scheduleError": false
 }

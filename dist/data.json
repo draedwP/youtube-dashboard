@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T14:43:48.351Z",
+  "updatedAt": "2026-10-24T15:13:46.961Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking SHOCKER Cam2r Reactions 🔥",
         "publishedAt": "2026-10-24T13:23:09Z",
         "thumbnail": "https://i.ytimg.com/vi/iZ_m-5cM4aQ/mqdefault.jpg",
-        "views": 767
+        "views": 873
       }
     },
     {
@@ -32,7 +32,7 @@
         "title": "Ranking MINDLESS Cam2r Reactions 😂",
         "publishedAt": "2026-10-24T13:59:22Z",
         "thumbnail": "https://i.ytimg.com/vi/BKqj9k2hMPI/mqdefault.jpg",
-        "views": 283
+        "views": 397
       }
     },
     {
@@ -49,7 +49,7 @@
         "title": "Ranking MYSTERIOUS Cam2r Reactions 😱",
         "publishedAt": "2026-10-24T13:21:39Z",
         "thumbnail": "https://i.ytimg.com/vi/mNDyebptBg0/mqdefault.jpg",
-        "views": 342
+        "views": 345
       }
     },
     {
@@ -57,7 +57,7 @@
       "id": "UCcIDm7RDZ6SAwMZ0RhQ_BrA",
       "title": "ManBarra",
       "url": "https://www.youtube.com/@ManBarra",
-      "subscribers": 560,
+      "subscribers": 561,
       "totalViews": 819186,
       "increase48h": 3568,
       "baselineAt": "2026-10-22T14:50:12.811Z",
@@ -66,7 +66,7 @@
         "title": "Ranking FIRE Cam2r Reactions 🤯",
         "publishedAt": "2026-10-24T13:23:18Z",
         "thumbnail": "https://i.ytimg.com/vi/PGCwuntJ8y8/mqdefault.jpg",
-        "views": 340
+        "views": 384
       }
     },
     {
@@ -83,7 +83,7 @@
         "title": "Ranking ZANY Cam2r Reactions 🍅",
         "publishedAt": "2026-10-24T13:19:35Z",
         "thumbnail": "https://i.ytimg.com/vi/BDxMgRpLznY/mqdefault.jpg",
-        "views": 0
+        "views": 5
       }
     },
     {
@@ -92,8 +92,8 @@
       "title": "Anger Hours",
       "url": "https://www.youtube.com/@angerhours",
       "subscribers": 6,
-      "totalViews": 4435,
-      "increase48h": 13,
+      "totalViews": 4444,
+      "increase48h": 22,
       "baselineAt": "2026-10-22T14:50:12.811Z",
       "latest": {
         "id": "kfUL7T9UylE",
@@ -168,7 +168,7 @@
         "title": "Ranking TRENDING Cam2r Reactions 🤓",
         "publishedAt": "2026-10-24T13:59:13Z",
         "thumbnail": "https://i.ytimg.com/vi/pl9r4jPWiWQ/mqdefault.jpg",
-        "views": 0
+        "views": 1
       }
     },
     {
@@ -177,8 +177,8 @@
       "title": "How You Doin ",
       "url": "https://www.youtube.com/@howyoudoinnow",
       "subscribers": 0,
-      "totalViews": 1100,
-      "increase48h": 33,
+      "totalViews": 1107,
+      "increase48h": 40,
       "baselineAt": "2026-10-22T14:50:12.811Z",
       "latest": {
         "id": "qMnX-6gW-qg",
@@ -211,15 +211,15 @@
       "title": "Best Clip Centre",
       "url": "https://www.youtube.com/@bestclipcentre",
       "subscribers": 2,
-      "totalViews": 1053,
-      "increase48h": 60,
+      "totalViews": 1198,
+      "increase48h": 205,
       "baselineAt": "2026-10-22T14:50:12.811Z",
       "latest": {
         "id": "0-5Al6pRaTc",
         "title": "Ranking HYPED Cam2r Reactions 🥶",
         "publishedAt": "2026-10-24T13:19:14Z",
         "thumbnail": "https://i.ytimg.com/vi/0-5Al6pRaTc/mqdefault.jpg",
-        "views": 0
+        "views": 1
       }
     }
   ],
@@ -291,6 +291,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-10-24T14:44:16.803204+00:00",
+  "scheduleUpdatedAt": "2026-10-24T15:14:18.818226+00:00",
   "scheduleError": false
 }

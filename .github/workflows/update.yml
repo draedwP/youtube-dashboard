@@ -26,9 +26,11 @@ jobs:
         run: |
           node --input-type=module -e '
             import { readFileSync, appendFileSync } from "node:fs";
-            let last = 0;
-            try { last = Date.parse(JSON.parse(readFileSync("dist/data.json", "utf8")).updatedAt) || 0 } catch {}
-            const due = Date.now() - last >= 25 * 60 * 1000;
+            let last = 0; let snapshot = {};
+            try { snapshot = JSON.parse(readFileSync("dist/data.json", "utf8")); last = Date.parse(snapshot.updatedAt) || 0 } catch {}
+            const refs = JSON.parse(readFileSync("channels.json", "utf8"));
+            const missing = refs.some(ref => !(snapshot.channels || []).some(c => c.handle === ref || c.id === ref));
+            const due = missing || Date.now() - last >= 25 * 60 * 1000;
             appendFileSync(process.env.GITHUB_OUTPUT, `collect=${due}\n`);
             console.log(due ? "Collecting new snapshot" : "Recent snapshot exists; skipping collection");
           '

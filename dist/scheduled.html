@@ -6,7 +6,7 @@
 .scheduled-details h2{margin-bottom:12px}
 @media(max-width:680px){.scheduled-content{flex-direction:column;gap:16px}.scheduled-thumbnail{width:100%;max-width:360px}}
 </style></head>
-<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Scheduled videos</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Channel views</a><a href="scheduled.html" aria-current="page">Scheduled videos</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
+<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Scheduled videos</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Channel views</a><a href="scheduled.html" aria-current="page">Scheduled videos</a><a href="other-creators.html">Other creators</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
 const status=document.querySelector('#status'),list=document.querySelector('#schedule');
 let loading=false;
 function element(tag,text){const n=document.createElement(tag);n.textContent=text;return n}

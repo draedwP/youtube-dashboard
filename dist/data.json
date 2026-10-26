@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:13:46.459Z",
+  "updatedAt": "2026-10-26T23:18:47.842Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking GIDDY Cam2r Reactions 🔥",
         "publishedAt": "2026-10-26T14:38:28Z",
         "thumbnail": "https://i.ytimg.com/vi/CeQyXsR8DJI/mqdefault.jpg",
-        "views": 3122
+        "views": 3154
       }
     },
     {
@@ -32,7 +32,7 @@
         "title": "Ranking RAGING Cam2r Reactions 😂",
         "publishedAt": "2026-10-26T14:46:11Z",
         "thumbnail": "https://i.ytimg.com/vi/5K3P9yHP5Jc/mqdefault.jpg",
-        "views": 351
+        "views": 353
       }
     },
     {
@@ -49,7 +49,7 @@
         "title": "Ranking WILDING Cam2r Reactions 😱",
         "publishedAt": "2026-10-26T14:48:07Z",
         "thumbnail": "https://i.ytimg.com/vi/ypwsV1cO7Sc/mqdefault.jpg",
-        "views": 706
+        "views": 724
       }
     },
     {
@@ -126,8 +126,8 @@
       "title": "Orange Low",
       "url": "https://www.youtube.com/@orangelownow",
       "subscribers": 2,
-      "totalViews": 958,
-      "increase48h": 20,
+      "totalViews": 999,
+      "increase48h": 61,
       "baselineAt": "2026-10-24T23:13:47.097Z",
       "latest": {
         "id": "qXNXr24nIvo",
@@ -151,7 +151,7 @@
         "title": "Ranking FREAKY Cam2r Reactions 😝",
         "publishedAt": "2026-10-26T14:02:27Z",
         "thumbnail": "https://i.ytimg.com/vi/o7TtarHUx4g/mqdefault.jpg",
-        "views": 1110
+        "views": 1111
       }
     },
     {
@@ -168,7 +168,7 @@
         "title": "Ranking WEIRD Cam2r Reactions 🤓",
         "publishedAt": "2026-10-26T14:11:07Z",
         "thumbnail": "https://i.ytimg.com/vi/7FhCqaP4ndM/mqdefault.jpg",
-        "views": 1425
+        "views": 1439
       }
     },
     {
@@ -219,11 +219,54 @@
         "title": "Ranking ABSURD Cam2r Reactions 🥶",
         "publishedAt": "2026-10-26T14:50:19Z",
         "thumbnail": "https://i.ytimg.com/vi/N_uykO0QFYI/mqdefault.jpg",
-        "views": 7
+        "views": 6
+      }
+    },
+    {
+      "handle": "friendbara",
+      "id": "UCTY92z9Vm73v-1lNTX_HvzA",
+      "title": "Friend Bara",
+      "url": "https://www.youtube.com/@friendbara",
+      "subscribers": 2100,
+      "totalViews": 7524142,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "EwKiZuy8gZs",
+        "title": "Ranking SILLY Danger Nunley Reactions 🔥",
+        "publishedAt": "2026-10-26T16:36:00Z",
+        "thumbnail": "https://i.ytimg.com/vi/EwKiZuy8gZs/mqdefault.jpg",
+        "views": 2634
+      }
+    },
+    {
+      "handle": "dripitipi",
+      "id": "UCOZ0Kdq-W6ODURn-_K7ilUw",
+      "title": "dripi tipi",
+      "url": "https://www.youtube.com/@dripitipi",
+      "subscribers": 1120,
+      "totalViews": 4199878,
+      "increase48h": null,
+      "baselineAt": null,
+      "latest": {
+        "id": "PJPV-YtAZao",
+        "title": "Ranking FUNNY Danger Nunley Reactions 😂",
+        "publishedAt": "2026-10-26T14:43:12Z",
+        "thumbnail": "https://i.ytimg.com/vi/PJPV-YtAZao/mqdefault.jpg",
+        "views": 2126
       }
     }
   ],
-  "scheduledVideos": [],
+  "scheduledVideos": [
+    {
+      "id": "dgJb57SK_jY",
+      "title": "Ranking TRENDING Danger Nunley Reactions 😂",
+      "publishAt": "2026-10-27T14:55:00Z",
+      "thumbnail": "https://i9.ytimg.com/vi/dgJb57SK_jY/maxresdefault.jpg?sqp=CPS9_9YG&rs=AOn4CLC3hCMe5lydF-Lw1juVZUWtMQBefQ",
+      "channelTitle": "dripi tipi",
+      "channelHandle": "dripitipi"
+    }
+  ],
   "scheduleChannels": [
     {
       "handle": "theovonaction",
@@ -289,8 +332,18 @@
       "handle": "bestclipcentre",
       "title": "Best Clip Centre",
       "success": true
+    },
+    {
+      "handle": "friendbara",
+      "title": "Friend Bara",
+      "success": true
+    },
+    {
+      "handle": "dripitipi",
+      "title": "dripi tipi",
+      "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-10-26T23:14:11.661057+00:00",
+  "scheduleUpdatedAt": "2026-10-26T23:19:02.616497+00:00",
   "scheduleError": false
 }

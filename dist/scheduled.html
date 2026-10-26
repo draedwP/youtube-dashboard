@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Scheduled videos · Channel Pulse</title><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23ff404f'/%3E%3Cpath d='M12 8v16l13-8z' fill='white'/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css"><style>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Upload Schedule · Channel Pulse</title><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23ff404f'/%3E%3Cpath d='M12 8v16l13-8z' fill='white'/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css"><style>
 .scheduled-content{display:flex;gap:24px;align-items:flex-start}
 .scheduled-thumbnail{width:240px;max-width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;background:#0c0e13;border-radius:10px}
 .scheduled-details{min-width:0;overflow-wrap:anywhere}
 .scheduled-details h2{margin-bottom:12px}
 @media(max-width:680px){.scheduled-content{flex-direction:column;gap:16px}.scheduled-thumbnail{width:100%;max-width:360px}}
 </style></head>
-<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Scheduled videos</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Channel views</a><a href="scheduled.html" aria-current="page">Scheduled videos</a><a href="other-creators.html">Other creators</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
+<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Upload Schedule</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Cam2r Reactions</a><a href="scheduled.html" aria-current="page">Upload Schedule</a><a href="other-creators.html">Danger Nunley</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
 const status=document.querySelector('#status'),list=document.querySelector('#schedule');
 let loading=false;
 function element(tag,text){const n=document.createElement(tag);n.textContent=text;return n}

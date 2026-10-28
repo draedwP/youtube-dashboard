@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:13:47.794Z",
+  "updatedAt": "2026-10-28T23:43:46.209Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -9,13 +9,13 @@
       "subscribers": 59700,
       "totalViews": 190318490,
       "increase48h": 64210,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": {
         "id": "rsv41VmMLgU",
         "title": "Ranking WACKADOODLE Cam2r Reactions 🔥",
         "publishedAt": "2026-10-28T14:48:05Z",
         "thumbnail": "https://i.ytimg.com/vi/rsv41VmMLgU/mqdefault.jpg",
-        "views": 7051
+        "views": 7865
       }
     },
     {
@@ -26,7 +26,7 @@
       "subscribers": 433,
       "totalViews": 563773,
       "increase48h": 4369,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -37,7 +37,7 @@
       "subscribers": 4280,
       "totalViews": 2512020,
       "increase48h": 7737,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": {
         "id": "cWUUwfjiXzY",
         "title": "Ranking WTF Cam2r Reactions 😱",
@@ -54,7 +54,7 @@
       "subscribers": 566,
       "totalViews": 837846,
       "increase48h": 5581,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -65,7 +65,7 @@
       "subscribers": 6,
       "totalViews": 12864,
       "increase48h": 4,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -76,7 +76,7 @@
       "subscribers": 6,
       "totalViews": 4454,
       "increase48h": 4,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -87,7 +87,7 @@
       "subscribers": 5,
       "totalViews": 8022,
       "increase48h": 17,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://www.youtube.com/@orangelownow",
       "subscribers": 2,
       "totalViews": 1041,
-      "increase48h": 83,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "increase48h": 42,
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -109,7 +109,7 @@
       "subscribers": 40,
       "totalViews": 59167,
       "increase48h": 2303,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -120,7 +120,7 @@
       "subscribers": 74,
       "totalViews": 98153,
       "increase48h": 2592,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -131,7 +131,7 @@
       "subscribers": 0,
       "totalViews": 1218,
       "increase48h": 58,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -142,7 +142,7 @@
       "subscribers": 0,
       "totalViews": 243,
       "increase48h": 5,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -153,7 +153,7 @@
       "subscribers": 2,
       "totalViews": 1362,
       "increase48h": 56,
-      "baselineAt": "2026-10-26T23:13:46.459Z",
+      "baselineAt": "2026-10-26T23:18:47.842Z",
       "latest": null
     },
     {
@@ -170,7 +170,7 @@
         "title": "Ranking FREAKY Danger Nunley Reactions 🔥",
         "publishedAt": "2026-10-28T14:49:15Z",
         "thumbnail": "https://i.ytimg.com/vi/1GuHsT0LGCk/mqdefault.jpg",
-        "views": 2213
+        "views": 2346
       }
     },
     {
@@ -187,7 +187,7 @@
         "title": "Ranking EPIC Danger Nunley Reactions 😂",
         "publishedAt": "2026-10-28T14:51:23Z",
         "thumbnail": "https://i.ytimg.com/vi/WiAHXfXObUg/mqdefault.jpg",
-        "views": 1977
+        "views": 2106
       }
     }
   ],
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-10-28T23:14:11.830426+00:00",
+  "scheduleUpdatedAt": "2026-10-28T23:44:13.265846+00:00",
   "scheduleError": false
 }

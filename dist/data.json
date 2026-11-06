@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:14:07.348Z",
+  "updatedAt": "2026-11-06T16:44:07.909Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -7,15 +7,15 @@
       "title": "Theo Love Action",
       "url": "https://www.youtube.com/@theovonaction",
       "subscribers": 59700,
-      "totalViews": 190598075,
-      "increase48h": 48339,
+      "totalViews": 190607751,
+      "increase48h": 58015,
       "baselineAt": "2026-11-04T16:26:15.975Z",
       "latest": {
         "id": "e7MHRX6MGd8",
         "title": "Ranking NUMB Cam2r Reactions 🔥",
         "publishedAt": "2026-11-06T14:31:22Z",
         "thumbnail": "https://i.ytimg.com/vi/e7MHRX6MGd8/mqdefault.jpg",
-        "views": 850
+        "views": 1368
       }
     },
     {
@@ -35,8 +35,8 @@
       "title": "FoxBarra",
       "url": "https://www.youtube.com/@foxbarra",
       "subscribers": 4320,
-      "totalViews": 2594636,
-      "increase48h": 8187,
+      "totalViews": 2595227,
+      "increase48h": 8778,
       "baselineAt": "2026-11-04T16:26:15.975Z",
       "latest": {
         "id": "I9tUJgbgLV8",
@@ -170,7 +170,7 @@
         "title": "Ranking CRAZY Danger Nunley Reactions 🔥",
         "publishedAt": "2026-11-06T14:58:25Z",
         "thumbnail": "https://i.ytimg.com/vi/U_SIYaBGPTM/mqdefault.jpg",
-        "views": 250
+        "views": 350
       }
     },
     {
@@ -178,7 +178,7 @@
       "id": "UCOZ0Kdq-W6ODURn-_K7ilUw",
       "title": "dripi tipi",
       "url": "https://www.youtube.com/@dripitipi",
-      "subscribers": 1280,
+      "subscribers": 1270,
       "totalViews": 4526610,
       "increase48h": 28410,
       "baselineAt": "2026-11-04T16:26:15.975Z",
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-11-06T16:14:36.004021+00:00",
+  "scheduleUpdatedAt": "2026-11-06T16:44:34.508401+00:00",
   "scheduleError": false
 }

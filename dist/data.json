@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:44:07.770Z",
+  "updatedAt": "2026-11-06T18:14:06.196Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking NUMB Cam2r Reactions 🔥",
         "publishedAt": "2026-11-06T14:31:22Z",
         "thumbnail": "https://i.ytimg.com/vi/e7MHRX6MGd8/mqdefault.jpg",
-        "views": 1476
+        "views": 1511
       }
     },
     {
@@ -43,7 +43,7 @@
         "title": "Ranking SURPRISED Cam2r Reactions 😱",
         "publishedAt": "2026-11-04T14:22:16Z",
         "thumbnail": "https://i.ytimg.com/vi/I9tUJgbgLV8/mqdefault.jpg",
-        "views": 3663
+        "views": 3674
       }
     },
     {
@@ -162,15 +162,15 @@
       "title": "Friend Bara",
       "url": "https://www.youtube.com/@friendbara",
       "subscribers": 2270,
-      "totalViews": 7921673,
-      "increase48h": 171666,
+      "totalViews": 7930403,
+      "increase48h": 180396,
       "baselineAt": "2026-11-04T17:49:42.933Z",
       "latest": {
         "id": "U_SIYaBGPTM",
         "title": "Ranking CRAZY Danger Nunley Reactions 🔥",
         "publishedAt": "2026-11-06T14:58:25Z",
         "thumbnail": "https://i.ytimg.com/vi/U_SIYaBGPTM/mqdefault.jpg",
-        "views": 997
+        "views": 1042
       }
     },
     {
@@ -187,7 +187,7 @@
         "title": "Ranking LEGENDARY Danger Nunley Reactions 😂",
         "publishedAt": "2026-11-06T14:25:01Z",
         "thumbnail": "https://i.ytimg.com/vi/YTvmu7chyrM/mqdefault.jpg",
-        "views": 0
+        "views": 19
       }
     }
   ],
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-11-06T17:44:36.402664+00:00",
+  "scheduleUpdatedAt": "2026-11-06T18:14:33.921830+00:00",
   "scheduleError": false
 }

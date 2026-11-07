@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:44:07.615Z",
+  "updatedAt": "2026-11-07T16:14:06.887Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -15,7 +15,7 @@
         "title": "Ranking NUMB Cam2r Reactions 🔥",
         "publishedAt": "2026-11-06T14:31:22Z",
         "thumbnail": "https://i.ytimg.com/vi/e7MHRX6MGd8/mqdefault.jpg",
-        "views": 4112
+        "views": 4130
       }
     },
     {
@@ -43,7 +43,7 @@
         "title": "Ranking SURPRISED Cam2r Reactions 😱",
         "publishedAt": "2026-11-04T14:22:16Z",
         "thumbnail": "https://i.ytimg.com/vi/I9tUJgbgLV8/mqdefault.jpg",
-        "views": 4464
+        "views": 4486
       }
     },
     {
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-11-07T15:44:34.679287+00:00",
+  "scheduleUpdatedAt": "2026-11-07T16:14:31.464653+00:00",
   "scheduleError": false
 }

@@ -6,7 +6,7 @@
 .scheduled-details h2{margin-bottom:12px}
 @media(max-width:680px){.scheduled-content{flex-direction:column;gap:16px}.scheduled-thumbnail{width:100%;max-width:360px}}
 </style></head>
-<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Upload Schedule</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Cam2r Reactions</a><a href="scheduled.html" aria-current="page">Upload Schedule</a><a href="other-creators.html">Danger Nunley</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
+<body><main><header><div><p class="eyebrow">YOUTUBE / CHANNEL MONITOR</p><h1>Upload Schedule</h1></div></header><nav aria-label="Pages" style="display:flex;gap:24px;margin:0 0 28px;flex-wrap:wrap"><a href="index.html">Theo</a><a href="scheduled.html" aria-current="page">Upload Schedule</a><a href="other-creators.html">Danger Nunley</a></nav><p id="status" role="status">Checking schedule data…</p><section id="schedule" aria-label="Scheduled videos"></section><footer></footer></main><script>
 const status=document.querySelector('#status'),list=document.querySelector('#schedule');
 let loading=false;
 function element(tag,text){const n=document.createElement(tag);n.textContent=text;return n}
@@ -20,8 +20,9 @@ async function load(){
    status.textContent='Schedule access is not connected yet. Scheduled uploads are private and require access to the channel accounts.';
    list.replaceChildren();return;
   }
-  const unavailable=(data.scheduleChannels||[]).filter(c=>!c.success);
-  const videos=[...data.scheduledVideos].sort((a,b)=>Date.parse(a.publishAt)-Date.parse(b.publishAt));
+  const tracked=new Set(['theovonaction','friendbara','dripitipi']);
+  const unavailable=(data.scheduleChannels||[]).filter(c=>tracked.has(c.handle)&&!c.success);
+  const videos=data.scheduledVideos.filter(v=>tracked.has(v.channelHandle)).sort((a,b)=>Date.parse(a.publishAt)-Date.parse(b.publishAt));
   status.textContent=(data.scheduleError?'Schedule updates delayed · ':'')+videos.length+' scheduled video'+(videos.length===1?'':'s')+' · Last checked '+new Date(data.scheduleUpdatedAt||data.updatedAt).toLocaleString();
   list.replaceChildren();
   if(unavailable.length){const note=element('p','Schedule unavailable for: '+unavailable.map(c=>c.title).join(', '));note.className='meta';list.append(note)}

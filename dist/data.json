@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:43:41.200Z",
+  "updatedAt": "2026-11-11T19:13:40.687Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -9,13 +9,13 @@
       "subscribers": 59700,
       "totalViews": 190751030,
       "increase48h": 72487,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": {
         "id": "y17S9gOKqB4",
         "title": "Ranking SCARY Cam2r Reactions 🔥",
         "publishedAt": "2026-11-11T14:39:13Z",
         "thumbnail": "https://i.ytimg.com/vi/y17S9gOKqB4/mqdefault.jpg",
-        "views": 971
+        "views": 1124
       }
     },
     {
@@ -26,7 +26,7 @@
       "subscribers": 432,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -36,8 +36,8 @@
       "url": "https://www.youtube.com/@foxbarra",
       "subscribers": 4320,
       "totalViews": 2597598,
-      "increase48h": 51,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "increase48h": 32,
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": {
         "id": "I9tUJgbgLV8",
         "title": "Ranking SURPRISED Cam2r Reactions 😱",
@@ -54,7 +54,7 @@
       "subscribers": 565,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -65,7 +65,7 @@
       "subscribers": 6,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -76,7 +76,7 @@
       "subscribers": 6,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -87,7 +87,7 @@
       "subscribers": 5,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -98,7 +98,7 @@
       "subscribers": 2,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -109,7 +109,7 @@
       "subscribers": 40,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -120,7 +120,7 @@
       "subscribers": 74,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -131,7 +131,7 @@
       "subscribers": 0,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -142,7 +142,7 @@
       "subscribers": 0,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -153,7 +153,7 @@
       "subscribers": 2,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": null
     },
     {
@@ -164,7 +164,7 @@
       "subscribers": 2300,
       "totalViews": 7978122,
       "increase48h": 6753,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": {
         "id": "zL9IcMx9GiM",
         "title": "Ranking IMPULSIVE Danger Nunley Reactions 🔥",
@@ -181,7 +181,7 @@
       "subscribers": 1300,
       "totalViews": 4594390,
       "increase48h": 37378,
-      "baselineAt": "2026-11-09T18:43:57.370Z",
+      "baselineAt": "2026-11-09T19:13:55.905Z",
       "latest": {
         "id": "Do1UOKZW63U",
         "title": "Ranking DARING Danger Nunley Reactions 😂",
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-11-11T18:44:10.334485+00:00",
+  "scheduleUpdatedAt": "2026-11-11T19:14:07.370047+00:00",
   "scheduleError": false
 }

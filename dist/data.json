@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:44:06.526Z",
+  "updatedAt": "2026-11-13T03:14:06.230Z",
   "channels": [
     {
       "handle": "theovonaction",
@@ -9,7 +9,7 @@
       "subscribers": 59700,
       "totalViews": 190783647,
       "increase48h": 61034,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": {
         "id": "BdKIDQDgUUU",
         "title": "Ranking The \"SILLY\" Cam2r Moments 😂",
@@ -26,7 +26,7 @@
       "subscribers": 432,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -37,7 +37,7 @@
       "subscribers": 4320,
       "totalViews": 2597577,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": {
         "id": "I9tUJgbgLV8",
         "title": "Ranking SURPRISED Cam2r Reactions 😱",
@@ -54,7 +54,7 @@
       "subscribers": 564,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -65,7 +65,7 @@
       "subscribers": 6,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -76,7 +76,7 @@
       "subscribers": 6,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -87,7 +87,7 @@
       "subscribers": 5,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -98,7 +98,7 @@
       "subscribers": 2,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -109,7 +109,7 @@
       "subscribers": 40,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -120,7 +120,7 @@
       "subscribers": 74,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -131,7 +131,7 @@
       "subscribers": 0,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -142,7 +142,7 @@
       "subscribers": 0,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -153,7 +153,7 @@
       "subscribers": 2,
       "totalViews": 0,
       "increase48h": 0,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": null
     },
     {
@@ -164,7 +164,7 @@
       "subscribers": 2320,
       "totalViews": 8033862,
       "increase48h": 61324,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": {
         "id": "Y4QoZk6M3aw",
         "title": "Ranking BONKERS Danger Nunley Reactions 🔥",
@@ -181,13 +181,13 @@
       "subscribers": 1320,
       "totalViews": 4639162,
       "increase48h": 66808,
-      "baselineAt": "2026-11-11T02:43:41.079Z",
+      "baselineAt": "2026-11-11T03:13:39.983Z",
       "latest": {
         "id": "upoTctl4K-0",
         "title": "Ranking BONKERS Danger Nunley Reactions 😂",
         "publishedAt": "2026-11-12T13:38:08Z",
         "thumbnail": "https://i.ytimg.com/vi/upoTctl4K-0/mqdefault.jpg",
-        "views": 5079
+        "views": 5180
       }
     }
   ],
@@ -269,6 +269,6 @@
       "success": true
     }
   ],
-  "scheduleUpdatedAt": "2026-11-13T02:44:31.611337+00:00",
+  "scheduleUpdatedAt": "2026-11-13T03:14:30.573808+00:00",
   "scheduleError": false
 }
